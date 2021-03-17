@@ -1,46 +1,87 @@
-# Getting Started with Create React App
+<h1 align="center"> Lista de Repositórios </h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p align="center">🔍 Navegação dentro do Readme. </p>
 
-## Available Scripts
+<div align="center">
 
-In the project directory, you can run:
+  [![](https://img.shields.io/badge/-Sobre-5276f2)](#sobre-o-projeto)
+  [![](https://img.shields.io/badge/-Tecnologias-5276f2)](#techs)
+  [![](https://img.shields.io/badge/-Começando-5276f2)](#rodar-projeto)
+  [![](https://img.shields.io/badge/-Social-5276f2)](#rede-social)
 
-### `yarn start`
+</div>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+</br></br>
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+<div align="left">
+  <h1 id="sobre-o-projeto"> ✅ Sobre o projeto </h1>
+  <p>
+    Construir um App que busca uma imagem randomica com as dimensões perquisadas.
+  </p>
+<!--   <img src="https://user-images.githubusercontent.com/43016458/110627254-7f82af00-8180-11eb-8e74-e689561904f2.png" width="300">
+  </br> 
+  <img src="https://user-images.githubusercontent.com/43016458/110627313-945f4280-8180-11eb-9bd8-dae8d055902b.png" width="300">
+  </br>
+  <img src="https://user-images.githubusercontent.com/43016458/110628394-b7d6bd00-8181-11eb-9591-b246e9d8b181.png" width="300">
+  <p><strong>Erro ao pesquisar repositório inválido</strong></p> -->
+</div>
+Link do deploy <a href="https://vibrant-edison-119a4b.netlify.app">Image-Randomizer.netlify.app</a>
 
-### `yarn test`
+___
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<div align="left"> 
+  <h1 id="techs">🚀 Tecnologias Utilizadas </h1> 
+  <div>
+    <p>
+      ➡
+      <a href="https://nodejs.org/en/"> NodeJS</a>
+    </p>
+    <p>
+      ➡
+      <a href="https://pt-br.reactjs.org/"> ReactJS</a>
+    </p>
+    <p>
+      ➡
+      <a href="https://www.typescriptlang.org"> Typescript</a>
+    </p>
+    <p>
+      ➡
+      <a href="https://babeljs.io/"> Styled-Components</a>
+    </p>
+  </div>
+</div> 
 
-### `yarn build`
+</br>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+___
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+<div align="left">
+  <h1 id="rodar-projeto">💻 Como rodar o projeto na sua máquina </h1>
+  <p>➡ Instalar o NodeJS na sua máquina. <p>
+  <p>➡ Instalar npm e/ou yarn.</p>
+  <p>➡ Ao instalar tudo necessário, abra uma pasta em seu editor de código e vá no cmd dele(no Vscode o nome é "terminal") ou abra o cmd da sua máquina, digite e execute: </p>
+  <p> 
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+    git clone https://github.com/Lightsd7/Image-Randomizer.git
+  </p>
+  <p>➡ Para ver os comandos disponíveis e dependências instaladas, vá no arquivo package.json. Por fim, para iniciar o servidor, vá em seu editor de código e vá no cmd dele(no Vscode o nome é "terminal") ou abra o cmd da sua máquina, digite e execute: </p>
+  <p>
 
-### `yarn eject`
+    yarn dev
+  </p>
+  <p>Pronto, seu projeto estará funcionando.</p>
+</div>
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+___
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+<div align="left">
+  <h1 id="rede-social">📱 Minhas redes sociais</h1>
+  <p> Eu sou Raphael Molina.
+  </p>
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+  [![](https://img.shields.io/badge/-Github-434140)](https://github.com/Lightsd7)
+  [![](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/raphael-molina-bedran-08a52699/)
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+</div>
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+___
