@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React from "react";
 import { Container } from "./styles";
 
 interface NewImageProps {
@@ -7,7 +7,6 @@ interface NewImageProps {
 }
 
 export function NewImage({ onUrl, onIsValid }: NewImageProps) {
-
 
   return (
     <>
