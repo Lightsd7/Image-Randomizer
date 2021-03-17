@@ -16,7 +16,7 @@
 <div align="left">
   <h1 id="sobre-o-projeto"> ✅ Sobre o projeto </h1>
   <p>
-    Construir um App que busca uma imagem randomica com as dimensões perquisadas.
+    Construir um App que busca uma imagem aleatório com as dimensões pesquisadas.
   </p>
 <!--   <img src="https://user-images.githubusercontent.com/43016458/110627254-7f82af00-8180-11eb-8e74-e689561904f2.png" width="300">
   </br> 
